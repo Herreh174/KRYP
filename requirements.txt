@@ -1,0 +1,11 @@
+binance-connector
+pandas
+numpy
+tensorflow
+scikit-learn
+tabulate
+openpyxl
+python-telegram-bot
+apscheduler
+requests
+python-dotenv
